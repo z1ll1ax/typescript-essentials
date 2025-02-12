@@ -6,7 +6,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/z1ll1ax-3893/WZCERSBN?sharingId=2582D21C5D9CC3B7)
 2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/z1ll1ax-3893/74NT4XWZ?sharingId=2582D21C5D9CC3B7)
-3. **Implement Interfaces in TypeScript**: [Badge](badge-link)
+3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/z1ll1ax-3893/J9EW3HHT?sharingId=2582D21C5D9CC3B7)
 4. **Develop Typed Functions in TypeScript**: [Badge](badge-link)
 5. **Declare and Instantiate Classes in TypeScript**: [Badge](badge-link)
 6. **Generics in TypeScript**: [Badge](badge-link)
@@ -28,6 +28,13 @@ I learned how to declare variable types, about any, unknown, their difference.
 Using any type is not a good idea, but unknown type for me does make some sense in some situations.
 
 3. **Implement Interfaces in TypeScript**:
+
+I used interfaces in different programming languages, for example Java. It is very useful, especially in OOP. Cool that TypeScript allows to work with them.
+
+Variables inside still need type declaration.
+
+Implementing them in project is must-have knowledge i think. 
+
 4. **Develop Typed Functions in TypeScript**:
 5. **Declare and Instantiate Classes in TypeScript**:
 6. **Generics in TypeScript**:
