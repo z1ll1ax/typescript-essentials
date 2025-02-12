@@ -5,7 +5,7 @@
 Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
 
 1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/z1ll1ax-3893/WZCERSBN?sharingId=2582D21C5D9CC3B7)
-2. **Declare Variable Types in TypeScript**: [Badge](badge-link)
+2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/z1ll1ax-3893/74NT4XWZ?sharingId=2582D21C5D9CC3B7)
 3. **Implement Interfaces in TypeScript**: [Badge](badge-link)
 4. **Develop Typed Functions in TypeScript**: [Badge](badge-link)
 5. **Declare and Instantiate Classes in TypeScript**: [Badge](badge-link)
@@ -22,6 +22,11 @@ TypeScript is "better" JavaScript, that allows to work with types of values and 
 I learned how to set up TypeScript in project, how to configure it, how to compile it in .js file.
 
 2. **Declare Variable Types in TypeScript**:
+
+I learned how to declare variable types, about any, unknown, their difference.
+
+Using any type is not a good idea, but unknown type for me does make some sense in some situations.
+
 3. **Implement Interfaces in TypeScript**:
 4. **Develop Typed Functions in TypeScript**:
 5. **Declare and Instantiate Classes in TypeScript**:
